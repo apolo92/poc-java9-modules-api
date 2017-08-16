@@ -1,0 +1,6 @@
+rootProject.name = 'server'
+include 'main'
+include 'person'
+include 'services'
+include 'gift'
+
